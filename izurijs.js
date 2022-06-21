@@ -12,4 +12,4 @@ function calc(x, operator, y){
   }
 }
 
-console.log(calc(12, "*", 9))
+console.log(calc(12, "+", 9))
